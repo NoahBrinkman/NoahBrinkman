@@ -3,8 +3,8 @@
 - Graduating in Creative Media and Game Technologies
 - Specializing in translating game design into workable features!
 
-## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahBrinkman)](https://github.com/anuraghazra/github-readme-stats)
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahBrinkman)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **NoahBrinkman/NoahBrinkman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
